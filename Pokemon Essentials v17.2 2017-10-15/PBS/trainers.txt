@@ -198,3 +198,8 @@ MAGIKARP,20
 BLASTOISE,20
 KINGLER,20
 LAPRAS,20
+#-------------------------------
+POKEMONTRAINER_Tiffani
+Tiffani
+1
+ZIGZAGOON,5

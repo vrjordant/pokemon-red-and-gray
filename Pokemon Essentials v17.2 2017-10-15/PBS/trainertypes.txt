@@ -84,3 +84,4 @@
 81,CSMAJOR_Gabby,CS Major,20,,,,Female,,
 82,CSMAJOR_Caleb,CS Major,20,,,,Male,,
 83,CSMAJOR_Aman,CS Major,20,,,,Male,,
+84,POKEMONTRAINER_Tiffani,Pokemon Trainer,20,,,,Female,,

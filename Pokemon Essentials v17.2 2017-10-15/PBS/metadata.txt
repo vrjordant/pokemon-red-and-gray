@@ -161,6 +161,12 @@ Bicycle=true
 Outdoor=true
 ShowArea=true
 #-------------------------------
+[033]
+# Mindowaskin Park
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [034]
 # Ice Cave
 BattleBack=IndoorC
