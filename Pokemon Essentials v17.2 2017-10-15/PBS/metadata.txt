@@ -400,3 +400,17 @@ ShowArea=true
 #-------------------------------
 [078]
 # \PN's house
+#-------------------------------
+[081]
+# Davis Town
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[085]
+# Davis West Entrance
+Bicycle=true
+#-------------------------------
+[087]
+# Davis East Entrance
+Bicycle=true
