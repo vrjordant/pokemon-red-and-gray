@@ -402,7 +402,7 @@ ShowArea=true
 # \PN's house
 #-------------------------------
 [081]
-# Davis Town
+# Davison Town
 Bicycle=true
 Outdoor=true
 ShowArea=true
