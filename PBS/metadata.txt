@@ -411,6 +411,18 @@ ShowArea=true
 # Davis West Entrance
 Bicycle=true
 #-------------------------------
+[086]
+# Route 1
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
 [087]
 # Davis East Entrance
 Bicycle=true
+#-------------------------------
+[088]
+# Leanix Town
+Bicycle=true
+Outdoor=true
+ShowArea=true

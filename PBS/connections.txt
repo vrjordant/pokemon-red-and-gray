@@ -40,3 +40,5 @@
 43,South,0,48,North,0
 # Route 100 (43) - Test Town (32)
 43,North,0,32,South,0
+# Route 1 (86) - Leanix Town (88)
+86,East,0,88,West,0
