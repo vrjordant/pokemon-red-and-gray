@@ -42,3 +42,7 @@
 43,North,0,32,South,0
 # Route 1 (86) - Leanix Town (88)
 86,East,0,88,West,0
+# Route 2 (92) - Leanix Town (88)
+92,South,3,88,North,0
+# Route 2 (92) - Route 1 (86)
+92,South,0,86,North,47
