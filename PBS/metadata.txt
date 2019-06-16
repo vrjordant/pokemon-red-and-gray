@@ -7,7 +7,7 @@ WildVictoryME=011 Victory! (Wild Pokémon).mp3
 TrainerBattleBGM=018 Battle! (Trainer Battle-Johto Ver.mp3
 SurfBGM=Surfing.mid
 BicycleBGM=Bicycle.mid
-Home=3,7,5,8
+Home=82,3,4,2
 WildBattleBGM=010 Battle! (Wild Pokémon-Johto Versi.mp3
 #-------------------------------
 [001]
@@ -429,6 +429,12 @@ ShowArea=true
 #-------------------------------
 [092]
 # Route 2
+Bicycle=true
+Outdoor=true
+ShowArea=true
+#-------------------------------
+[094]
+# Peircer City
 Bicycle=true
 Outdoor=true
 ShowArea=true
