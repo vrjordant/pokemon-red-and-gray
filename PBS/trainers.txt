@@ -199,8 +199,8 @@ BLASTOISE,20
 KINGLER,20
 LAPRAS,20
 #-------------------------------
-POKEMONTRAINER_Tiffani
-Tiffani
+POKEMONTRAINER_Mara
+Mara
 1
 SHINX,5,,,,,,2
 #-------------------------------

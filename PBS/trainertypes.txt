@@ -84,5 +84,5 @@
 81,CSMAJOR_Gabby,CS Major,20,,,,Female,,
 82,CSMAJOR_Caleb,CS Major,20,,,,Male,,
 83,CSMAJOR_Aman,CS Major,20,,,,Male,,
-84,POKEMONTRAINER_Tiffani,Pokemon Trainer,100,Rival Battle Diamond,Trainer Victory Diamond,,Female,,
+84,POKEMONTRAINER_Mara,Pokemon Trainer,100,Rival Battle Diamond,Trainer Victory Diamond,,Female,,
 85,LEADER_Borowski,Gym Leader,100,043 Battle! Gym Leader (Johto),044 Victory Against Gym Leader,,Male,,
